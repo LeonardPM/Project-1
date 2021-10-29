@@ -1,0 +1,106 @@
+* {
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+}
+*::selection {
+    color: white;
+    background-color: aqua;
+}
+
+/*
+.color-red {
+    color: red;
+}
+h1 {
+    color:blue !important
+}
+#joder{
+    color: rgb(43, 226, 104);
+}
+.contact-form {
+    font-size: 25px;
+    background-color: black;
+    width: 50vw;
+    height: 100vh;
+}
+*/
+/*
+.contact-form {
+    font-size: 25px;
+}
+
+.contact-form__p-h2{
+    font-size: 5em;
+    color: blueviolet;
+}
+
+        <div class="contact-form">
+            <h2 class="contact-form__p-h2">Hi bitch</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit reiciendis sint accusamus quae est sit dolore, voluptatem commodi adipisci, cumque aliquid eum hic sunt? Quia illum deserunt error temporibus possimus.</p>
+        </div>
+*/
+
+/*
+<h2>BITCH</h2><h2>BITCH</h2>
+
+h2 {
+    background-color:red;
+    display: inline-block;
+    padding: 100px;
+    text-align: center;
+    margin: 10px 5px 10px 5px;
+    border-radius: 1.6em;
+    border: 10px solid #a22;
+    box-shadow: 0px 15px 20px 0px #000;
+    text-shadow: 2px 2px 2px #fff;
+    transform: rotate(90deg);
+}
+*/
+
+.text {
+    padding: 12px;
+}
+
+.text::first-line {
+    color: aqua;
+    font-size: 1.5em;
+}
+/*
+.text::selection  {
+    color: #ffffff;
+    background-color: rgba(25, 201, 186, 0.726);
+}
+*/
+form {
+    margin: 50px;
+    display: block;
+    background-color: gray;
+    padding: 10px;
+    width: 40%;
+}
+
+input {
+    padding: 6px;
+    width: 100%;
+}
+
+input::placeholder {
+    color: blueviolet;
+    font-size: 1.2em;
+}
+
+b {
+    padding: 6px;
+    width: 100%;
+}
+
+b::before {
+    content: "ALV";
+    color: blue;
+}
+
+b::after {
+    content: "Don ramon";
+    color: red;
+}

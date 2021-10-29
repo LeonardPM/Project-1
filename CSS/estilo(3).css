@@ -1,0 +1,75 @@
+* {
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+/*
+.color-red {
+    color: red;
+}
+h1 {
+    color:blue !important
+}
+#joder{
+    color: rgb(43, 226, 104);
+}
+.contact-form {
+    font-size: 25px;
+    background-color: black;
+    width: 50vw;
+    height: 100vh;
+}
+*/
+/*
+.contact-form {
+    font-size: 25px;
+}
+
+.contact-form__p-h2{
+    font-size: 5em;
+    color: blueviolet;
+}
+
+        <div class="contact-form">
+            <h2 class="contact-form__p-h2">Hi bitch</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit reiciendis sint accusamus quae est sit dolore, voluptatem commodi adipisci, cumque aliquid eum hic sunt? Quia illum deserunt error temporibus possimus.</p>
+        </div>
+*/
+
+/*
+<h2>BITCH</h2><h2>BITCH</h2>
+
+h2 {
+    background-color:red;
+    display: inline-block;
+    padding: 100px;
+    text-align: center;
+    margin: 10px 5px 10px 5px;
+    border-radius: 1.6em;
+    border: 10px solid #a22;
+    box-shadow: 0px 15px 20px 0px #000;
+    text-shadow: 2px 2px 2px #fff;
+    transform: rotate(90deg);
+}
+*/
+
+.cont {
+    margin: auto;
+    margin-top: 50px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    color: aqua;
+    width: 50%;
+    padding: 5px;
+}
+
+.cont p {
+    width: 50%;
+}
+
+.cont img {
+    float: left;
+    width: 301px;
+    margin-right: 10px;
+}

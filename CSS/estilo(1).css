@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.color-red {
+    color: red;
+}
+h1 {
+    color:blue !important
+}
+#joder{
+    color: rgb(43, 226, 104);
+}
+.contact-form {
+    font-size: 15px;
+    background-color: black;
+    width: 50vw;
+    height: 100vh;
+}
+.contact-form__input--servicio{
+    color: rgb(89, 0, 255);
+}
+.contact-form__p-h2{
+    font-size: 5em;
+    font-family: 'Zen Kurenaido', sans-serif;
+    color: blueviolet;
+}
